@@ -1,0 +1,103 @@
+*{margin: 0;padding: 0;outline: 0}
+body{font-family: arial;font-size: 16px;line-height: 18px; color:#000;}
+
+.templete{width:960px; margin: 0 auto; } 
+.clear{overflow: hidden;}
+.headersection{height: 85px; background:#2F2D2E; color:#FFF;}
+.headersection h2{
+	font-size:40px; 
+	padding-top: 30px;
+	text-align: center;
+}
+.navsection{background:#9B999A;}
+.navsection ul{
+	margin: 0; 
+	padding: 0; 
+	list-style:none;
+}
+.navsection ul li{
+	display: block;
+	float: left;
+}
+.navsection ul li a{
+	background: #cdcbcc none repeat scroll 0 0;
+	color:#444;
+	display: block;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 5px;
+	padding: 5px 30px;
+	text-decoration: none;  
+}
+.navsection ul li a:haver;{
+
+}
+.contentsaction{background: #FFFFFF;}
+.maincontent{background: #DFDFDF none repeat scroll 0 0;
+     float: left;
+     margin: 15px 15px 15px 0;
+     padding: 10px;
+     width: 650px;
+}  
+.samepost{
+
+}
+.samepost h2{
+	border-bottom: 2px solid #555555;
+	font-size: 24px;
+	margin-bottom: 10px;
+    padding: 10px;
+    font-size: 25px;
+}
+.samepost img{
+    background: #ffF none repeat scroll 0 0;
+    border: 1px solid #9b999a;
+    float: left;
+    margin-right: 10px;
+    padding: 5px;
+    width: 200px;
+} 
+.sidebar{background: #DFDFDF none repeat scroll 0 0;
+     margin: 15px;
+     padding: 10px;
+     width: 255px;
+}
+.sidebar p{}
+.samesidebar{
+
+}
+.samesidebar h2{
+	background: #9B999A none repeat scroll 0 0;
+	border-bottom: 2px; solid #555555;
+	color: #fff;
+	margin-bottom: 8px;
+    padding: 10px;
+    color:#FFFFFF;
+}
+.readmonre{
+    
+}
+.readmonre a{
+       background: #fff none repeat scroll 0 0;
+       border: 1px solid #9B999A;
+       text-align: right;
+       border-radius: 3px;
+       color: #333;
+       display: block;
+       font-size: 17px;
+       padding: 4px 8px;
+       text-decoration: none;
+   }
+.samesidebar p{
+	margin-bottom: 10px;
+
+
+}
+.footersection{	height: 90px;background: #555555}
+.footersection p{
+	color: #fff;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 30px;
+	text-align: center;
+}
